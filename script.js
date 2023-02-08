@@ -76,3 +76,4 @@ function restart(){
     currentPlayer =XTest
 }
 startGame()
+startGame()
